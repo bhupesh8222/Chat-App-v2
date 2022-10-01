@@ -7,7 +7,6 @@ import { Editor } from 'react-draft-wysiwyg';
 import 'draft-js/dist/Draft.css';
 import draftToHtml from 'draftjs-to-html';
 import { convertToHTML } from 'draft-convert';
-import DOMPurify from 'dompurify';
 
 import 'react-draft-wysiwyg/dist/react-draft-wysiwyg.css';
 
